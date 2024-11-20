@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230597140028",
+    "project_id": "cellmax-f0564",
+    "storage_bucket": "cellmax-f0564.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230597140028:android:43726d07993fc1fe42ad39",
+        "android_client_info": {
+          "package_name": "com.example.cellmax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0cvOouATOXGB-IAkzE1kbzWImYiXAag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
